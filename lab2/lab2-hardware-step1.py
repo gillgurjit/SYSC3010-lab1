@@ -12,7 +12,7 @@ nothing = (0, 0, 0)
 pink = (255, 105, 180)
 
 def gurjit():
-    B = blue
+    B = yellow
     O = nothing
     logo = [
         B, B, B, B, B, B, B, B,
